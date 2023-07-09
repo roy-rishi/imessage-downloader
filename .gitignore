@@ -1,0 +1,8 @@
+.DS_Store
+venv/*
+__pycache__/*
+.cache
+*.swp
+pyvenv.cfg
+config.py
+messages-complete.json
