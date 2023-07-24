@@ -1,4 +1,6 @@
 # imessage-downloader
+
+requires [Bluebubbles Server](https://bluebubbles.app/)
  
 ## config
 write `config.py` to the project directory according to the following template
