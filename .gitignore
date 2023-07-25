@@ -5,4 +5,4 @@ __pycache__/*
 *.swp
 pyvenv.cfg
 config.py
-messages-complete.json
+*.json
